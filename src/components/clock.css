@@ -24,3 +24,11 @@ body {
     align-items: center;
     flex-direction: column;
 }
+
+h1 {
+    font-size: 4rem; /* Large text size */
+    font-weight: bold;
+    color: white; /* White text color */
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for the text */
+}
