@@ -13,4 +13,14 @@ body {
     height: 100vh;
     color: #333;
 }
-
+.clock {
+    background-color: #ff66b2; /* Pink background for the clock */
+    padding: 30px 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Soft shadow for 3D effect */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
